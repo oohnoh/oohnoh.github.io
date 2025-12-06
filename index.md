@@ -1,9 +1,9 @@
-# 첫 번째 블로그 글
+# My Blog
 
-## 안녕하세요!
-이제 **테마**가 적용되어 글씨가 깔끔하게 나옵니다.
+## @aeonianiridescentxanadus!
+------------------------------
 
-- 목록도 만들 수 있고
-- 링크도 쉽게 겁니다.
+- hello
 
-[구글 바로가기](https://google.com)
+
+[Google](https://google.com)
