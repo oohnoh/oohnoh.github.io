@@ -1,9 +1,14 @@
 # My Blog
 
-## @aeonianiridescentxanadus!
+## @aeonianiridescentxanadus
+
+### (instagram)
 ------------------------------
 
-- hello
+- biotech
+- finance
+- data science
+- web & app dev
+- semiconductor
 
-
-[Google](https://google.com)
+[Naver Blog] https://blog.naver.com/aeonianxanadu
