@@ -2,6 +2,7 @@
 layout: single
 title: "My Blog"
 author_profile: true
+categories: 일상  
 ---
 
 # @aeonianiridescentxanadus
