@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "전체글"
+    url: /categories/
+  - title: "GitHub"
+    url: https://github.com/
