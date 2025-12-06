@@ -1,1 +1,8 @@
+title: "MY BLOG"
+description: "-------------"
+# 테마 설정 (중요)
+theme: null
 remote_theme: mmistakes/minimal-mistakes
+# 플러그인 설정
+plugins:
+  - jekyll-include-cache
