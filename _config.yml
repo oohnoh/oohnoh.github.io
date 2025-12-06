@@ -1,8 +1,15 @@
-title: "MY BLOG"
-description: "-------------"
-# 테마 설정 (중요)
-theme: null
-remote_theme: mmistakes/minimal-mistakes
-# 플러그인 설정
-plugins:
-  - jekyll-include-cache
+author:
+  name: "Herny"
+  avatar: "https://avatars.githubusercontent.com/oohnoh"
+  bio: "언제나 정독할만한 가치가 있는 글을 작성합니다."
+  location: "Seoul, Korea"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cheverny@korea.ac.kr"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/aeonianiridescentxanadus"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/oohnoh"
