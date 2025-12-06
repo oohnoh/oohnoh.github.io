@@ -1,3 +1,1 @@
-theme: jekyll-theme-caymon
-title: MY BLOG
-description: by hoon
+remote_theme: mmistakes/minimal-mistakes
